@@ -12,3 +12,5 @@ MRI Image -> Converts it into greyscale (if its in colour) -> Converts into doub
 K-means clustering is an unsupervised ML algorithm, which makes it easier to group pixels with similar intensity. It doesn't require labeled data to train, so it can be used for tumor segmentation in MRI images.
 
 *Note: K = 3 because it divides the image into three intensity groups, the background, normal tissue and the tumor region*
+
+Image Source: MRI brain tumor detection using deep learning and machine learning approaches (Open Access) - Research Article -  Science Direct
